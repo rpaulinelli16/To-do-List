@@ -40,3 +40,5 @@ function deletarItem(index) {
 }
 
 button.addEventListener('click', adicionarNovaTarefa);
+
+<!-- Rodrigo Paulinelli D24585 -->
